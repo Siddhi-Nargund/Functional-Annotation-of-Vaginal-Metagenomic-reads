@@ -1,5 +1,6 @@
 # About the Project
 
+(Please refer python notebook for the detailled code and output)
 Functional Annotation of Vaginal Metagenomic reads
 
 -	Bacterial vaginosis is caused by predominantly anaerobic microorganisms such as Gardnerella vaginalis and Prevotella, Peptostreptococcus and Bacteroides spp affecting arounds 21.2 million women in United States alone
